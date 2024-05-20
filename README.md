@@ -1,1 +1,1 @@
-# MAS456 Statiscal Methos With Computer
+# MAS456 Statiscal Methods With Computer
